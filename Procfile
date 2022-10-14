@@ -1,1 +1,1 @@
-web: gunicorn wales-29.wsgi --log-file -
+web: gunicorn Hello.wsgi --log-file -
